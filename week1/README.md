@@ -20,3 +20,8 @@
 - Chat interfaces: ChatGPT
 - Cloud APIS: LLM API, Frameworks like LangChain, Managed AI cloud services (Amazon Bedrock, Google Vertex, Azure ML)
 - Direct Interface: with HuggingFace Transformers library, with Ollama to run locally 
+
+# LLMs come in 3 flavors:
+- Base: better for fine-tuning to learn a new skill
+- Chat/Instruct: Better for interactive use bases and creative content generation
+- Reasoning/Thiking 
