@@ -16,3 +16,7 @@
   - Phi from Microsoft
   - DeepSeek from DeepSeek AI
   - GPT-OSS from OpenAI 
+# 3 ways to use models:
+- Chat interfaces: ChatGPT
+- Cloud APIS: LLM API, Frameworks like LangChain, Managed AI cloud services (Amazon Bedrock, Google Vertex, Azure ML)
+- Direct Interface: with HuggingFace Transformers library, with Ollama to run locally 
