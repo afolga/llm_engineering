@@ -7,3 +7,12 @@
 - Claude from Anthropic
 - Gemini from Google
 - Grok from x.ai
+
+# Open Source: 
+  - Llama from Meta
+  - Mixtral from Mistral
+  - Qwen from Alibaba Cloud
+  - Gemma from Google
+  - Phi from Microsoft
+  - DeepSeek from DeepSeek AI
+  - GPT-OSS from OpenAI 
