@@ -24,4 +24,9 @@
 # LLMs come in 3 flavors:
 - Base: better for fine-tuning to learn a new skill
 - Chat/Instruct: Better for interactive use bases and creative content generation
-- Reasoning/Thiking 
+- Reasoning/Thiking
+
+# End of week 1:
+- intro to transformers, tokens, context windows, API costs
+- contrast the leading frontier LLMs
+- confidently use the OpenAI API including streaming with markdown and JSON generation, Ollama API
